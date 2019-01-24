@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Info = ({ name, population }) => {
+const Info = ({ name, population, id }) => {
 
 
 
