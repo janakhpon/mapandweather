@@ -6,11 +6,11 @@ const Info = ({ name, population }) => {
 
     return (
         <div className="card">
-            <h5 className="card-header">{name}</h5>
+            <h5 className="card-header center"><i className="fas fa-map-marker-alt fa-2x" /> City : {name}</h5>
             <div className="card-body">
-                <h5 className="card-title">population : {population}</h5>
-                <p className="card-text"> Check more info below.</p>
-                <a href="/" className="btn btn-primary">more info</a>
+                <h6 className="card-title center"><i className="fas fa-users" /> population : {population}</h6>
+                <h6 className="card-title center"><i className="fas fa-map-marked-alt"/> C- ID : {id}</h6>
+                
             </div>
         </div>
     )
