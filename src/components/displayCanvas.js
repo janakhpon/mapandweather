@@ -9,7 +9,7 @@ import { connect } from 'react-redux';
 class DisplayCanvas extends React.Component {
 
     renderWeather(cityData) {
-        const {name, population} = cityData.city;
+        const {name, population, id} = cityData.city;
         const temps = cityData.list.map(weather => weather.main.temp);
         const pressures = cityData.list.map(weather => weather.main.pressure);
         const humidities = cityData.list.map(weather => weather.main.humidity);
@@ -17,7 +17,7 @@ class DisplayCanvas extends React.Component {
 
         return (
             <tr key={name}>
-                <td><DisplayMap lon={lon} lat={lat} /></td>
+                <td><DisplayMap lon={lon} lat={lat} id={id} /></td>
                 <td><Info name={name} population={population} /></td>
                 <td><Chart data={temps} color="orange" units="K" /></td>
                 <td><Chart data={pressures} color="green" units="hPa" /></td>
