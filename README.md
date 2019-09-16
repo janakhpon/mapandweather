@@ -1,5 +1,5 @@
 # mapandweather
-   mapandweather use Rect,Redux,Axios and middleware section to fullfill the needs of this application. In this project, you will find a way to use google map in react without API key. Please Check the `RELEASE_STATUS` before you clone. Here is a deployed link [deployedlink](https://ei-sgallery.herokuapp.com/)
+   mapandweather use Rect,Redux,Axios and middleware section to fullfill the needs of this application. In this project, you will find a way to use google map in react without API key. Please Check the `RELEASE_STATUS` before you clone. Here is a deployed link [deployedlink](http://janakhpon.github.io/mapandweather)
 
 
 
@@ -34,7 +34,7 @@ Install Dependencies using [yarn](https://yarnpkg.com/en/)
  4.temperature
 
 ## RELEASE_STATUS:IN PROGRESS
-## RELEASE_CODE: GDEV000
+## RELEASE_CODE: GDEV001
  almost done. Clone and enjoy!
 
 ## API OPTIONS
