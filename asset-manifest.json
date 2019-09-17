@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mapandweather/static/css/main.0352a8c2.chunk.css",
+    "main.js": "/mapandweather/static/js/main.73ae798f.chunk.js",
+    "main.js.map": "/mapandweather/static/js/main.73ae798f.chunk.js.map",
+    "runtime~main.js": "/mapandweather/static/js/runtime~main.9f66661b.js",
+    "runtime~main.js.map": "/mapandweather/static/js/runtime~main.9f66661b.js.map",
+    "static/js/2.d7a1e0d2.chunk.js": "/mapandweather/static/js/2.d7a1e0d2.chunk.js",
+    "static/js/2.d7a1e0d2.chunk.js.map": "/mapandweather/static/js/2.d7a1e0d2.chunk.js.map",
+    "index.html": "/mapandweather/index.html",
+    "precache-manifest.3f70bb7bd284e0c44022a5ca2a5d10e5.js": "/mapandweather/precache-manifest.3f70bb7bd284e0c44022a5ca2a5d10e5.js",
+    "service-worker.js": "/mapandweather/service-worker.js",
+    "static/css/main.0352a8c2.chunk.css.map": "/mapandweather/static/css/main.0352a8c2.chunk.css.map"
+  }
+}
