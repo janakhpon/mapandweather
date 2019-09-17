@@ -34,7 +34,7 @@ Install Dependencies using [yarn](https://yarnpkg.com/en/)
  4.temperature
 
 ## RELEASE_STATUS:IN PROGRESS
-## RELEASE_CODE: GDEV001
+## RELEASE_CODE: GDEV002
  almost done. Clone and enjoy!
 
 ## API OPTIONS
