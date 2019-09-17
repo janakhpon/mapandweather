@@ -1,29 +1,49 @@
-
-
 # mapandweather
-   mapandweather use Rect,Redux,Axios and middleware section to fullfill the needs of this application. Clone the repo and use comand like "yarn install" and "yarn start" then you are ready to go on check out the port 3000 and Type the cities of Myanmar if not u won't be able to use it correctly. Otherwise change the country code in the url line and replace with any code you like!. Hope it will help u too.
+   mapandweather use Rect,Redux,Axios and middleware section to fullfill the needs of this application. In this project, you will find a way to use google map in react without API key. Please Check the `RELEASE_STATUS` before you clone. Here is a deployed link [deployedlink](http://janakhpon.github.io/mapandweather)
 
 
-Interested in future projects [GTGMyanmar](https://github.com/GTGMyanmar)?
 
-### Getting Started
+# Usage
 
-There are two methods for getting started with this repo.
+clone the repository
 
-#### Command
-Checkout this repo, install dependencies, then start the gulp process with the following:
+    git clone https://github.com/janakhpon/mapandweather.git
+
+Get into root folder
+
+    cd mapandweather
+
+Install Dependencies using [npm](https://www.npmjs.com/)
+
+    npm install
+    npm i -d
+    npm run start
+    npm run dev
+
+Install Dependencies using [yarn](https://yarnpkg.com/en/)
+
+    yarn install
+    yarn add
+    yarn start
+    yarn dev
+
+## Included Features
+ 1.search for city   
+ 2.google map
+ 3.visual charts
+ 4.temperature
+
+## RELEASE_STATUS:IN PROGRESS
+## RELEASE_CODE: GDEV002
+ almost done. Clone and enjoy!
+
+## API OPTIONS
+ Still working on it! so it's not available at the moment
+    
+```bash
+    not available yet
+```
+
 
 ```
-> git clone https://github.com/janakhpon/mapandweather.git
-> cd mapandweather
-> yarn install
-> yarn start
-```
 
-#### Ran into error?
-It might need to authorize ..use as root
-
-```
-> sudo yarn install
-> sudo yarn start
-```
